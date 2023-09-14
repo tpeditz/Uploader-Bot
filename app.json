@@ -4,7 +4,7 @@
   "keywords": [ "URL UPLOADER"],
   "success_url": "https://t.me/cyniteUploaderbot",
   "website": "https://github.com/CyniteOfficial/Uploader-Bot",
-  "repository": "https://github.com/CyniteOfficial/Uploader-Bot",
+  "repository": "https://github.com/tpeditz/Uploader-Bot",
 
   "env": {
     "WEBHOOK": {"description": "Setting this to ANYTHING will enable webhooks when in env mode",
